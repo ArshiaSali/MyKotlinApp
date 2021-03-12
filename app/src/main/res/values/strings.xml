@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">MyKotlinApp</string>
-    <string name="firstlabel">My First Label</string>
+    <string name="firstlabel">Post Your News Here !</string>
 </resources>
