@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyKotlinApp</string>
+    <string name="firstlabel">My First Label</string>
 </resources>
