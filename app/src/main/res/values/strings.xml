@@ -3,4 +3,5 @@
     <string name="firstlabel">Please Post Your News Here!</string>
     <string name="textfieldhintName">Name</string>
     <string name="buttonSend">Send</string>
+    <string name="messagetext">No Message</string>
 </resources>
